@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexzerozeroone" alt="alexzerozeroone" /></a> </p>
 
-- I’m currently working on **an cURL clone**
+- I’m currently working on **a cURL clone**
 
 - I’m currently learning **C-family based languages**
 
-- All of my projects are available at [https://github.com/alexzerozeroone](https://github.com/alexzerozeroone)
+- All of my projects are available at [here](https://github.com/alexzerozeroone?tab=repositories)
 
 - Ask me about **anything**
 
-- How to reach me **github.dev.rand@gmail.com**
+- How to reach me **alexander.david.dev@yandex.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

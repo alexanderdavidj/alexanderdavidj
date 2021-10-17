@@ -20,6 +20,7 @@
 <a href="https://stackoverflow.com/users/13524375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13524375" height="30" width="40" /></a>
 <a href="https://codesandbox.com/alexzerozeroone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="alexzerozeroone" height="30" width="40" /></a>
 <a href="https://medium.com/@alexzerozeroone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alexzerozeroone" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/alexander_david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alexander_david" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

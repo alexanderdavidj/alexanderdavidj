@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alex</h1>
 <h3 align="center">I'm a dumb guy that does programming</h3>
 
-- I’m currently working on **blackjack-21.ga**
+- I’m currently working on **a lot of different projects**
 
 - I’m currently learning **C++**
 

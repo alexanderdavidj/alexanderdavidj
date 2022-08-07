@@ -7,7 +7,7 @@
 
 - Ask me about **anything I know about**
 
-- How to reach me: **alexander.david.dev@yandex.com**
+- How to reach me: **alexander-david-dev@yandex.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

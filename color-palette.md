@@ -11,7 +11,7 @@
 
 # css
 ```css
-root {
+:root {
   --background: #1d1234;
   --foreground: #dadada;
   --special-1: #5500ff;

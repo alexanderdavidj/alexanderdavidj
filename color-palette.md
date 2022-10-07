@@ -1,4 +1,4 @@
-# [colorkit.co palette](https://colorkit.co/palette/1d1234-dadada-5500ff-1f1e33-1d123f/)
+# [colorkit.co palette](https://colorkit.co/palette/1d1234-dadada-5500ff-1f1e33-1d123f-1e1436/)
 
 - #1d1234 
   - background
@@ -10,6 +10,8 @@
   - special 2
 - #1d123f
   - special 3
+- #1e1436
+  - special 4
 
 # css
 ```css

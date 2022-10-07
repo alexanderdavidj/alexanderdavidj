@@ -30,5 +30,3 @@
     </div>
     <a href="color-palette.png"><img alt="Color pallete" src="https://img.shields.io/badge/Color%20Palette-1d1234?style=for-the-badge"></a>
 </div>
-
-

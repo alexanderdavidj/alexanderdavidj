@@ -1,17 +1,13 @@
-# [colorkit.co palette](https://colorkit.co/palette/1d1234-dadada-5500ff-1f1e33-1d123f-1e1436/)
+# [colorkit.co palette](https://colorkit.co/palette/1a1b26-a9b1d6-bbb0d0-1111174a/)
 
-- #1d1234 
+- #1a1b26 
   - background
-- #dadada
+- #a9b1d6
   - foreground
-- #5500ff
+- #bbb0d0
   - special 1
-- #1f1e33
+- #1111174a
   - special 2
-- #1d123f
-  - special 3
-- #1e1436
-  - special 4
 
 # css
 ```css
@@ -20,7 +16,5 @@
     --fg: #dadada;
     --s-1: #5500bb;
     --s-2: #1f1e33;
-    --s-3: #1d1240;
-    --s-4: #1e1436;
 }
 ```

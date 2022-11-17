@@ -1,4 +1,4 @@
-# [colorkit.co palette](https://colorkit.co/palette/1a1b26-a9b1d6-dadada-bbb0d0-1111174a/)
+# [colorkit.co palette](https://colorkit.co/color-palette-generator/1a1b26-a9b1d6-dadada-bbb0d0-1111174a/)
 
 - #1a1b26 
   - background
